@@ -1,5 +1,5 @@
 # Human Computer Interface
-2029 Human Computer Interface Assignment
+2020 Human Computer Interface Assignment
 
 0. HW0
     * HTML Canvas - Animal Crossing (동물의 숲)
